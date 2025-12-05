@@ -1,78 +1,82 @@
-# Full-Stack Developer | MERN | WebRTC | SaaS | Maps | DSA (Java) | ML Learner  
+# Full-Stack Developer | MERN | Real-Time Systems | SaaS | Maps | DSA (Java)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DEEP13-2-5&style=flat&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/DEEP13-2-5?style=flat&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/DEEP13-2-5?affiliations=OWNER&style=flat&color=yellow)
-
----
-
-I build production-ready systems — from real-time video conferencing to SaaS platforms with maps, authentication, CI/CD, and cloud deployments.  
-Currently preparing for **SWE Internships 2026-27** and focusing on **DSA + System Design + DevOps basics**.
+I build scalable, production-grade systems with a strong focus on clean engineering, real-time communication, security, and cloud-native design.  
+Actively preparing for **FAANG / Tier-1 intern roles**, sharpening **DSA (Java)**, **System Design**, and backend engineering depth.
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠️ Tech Stack & Tools
 
-**Languages:** Java, JavaScript, TypeScript, Python  
-**Frontend:** React, Tailwind, Redux, HTML, CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, Mongoose  
-**Cloud / Tools:** Cloudinary, Mapbox, Docker (learning), GitHub Actions  
-**Real-Time:** WebRTC, Socket.io  
-**Other:** REST APIs, Authentication, JWT / Sessions  
+### **Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
 
----
+### **Frontend**
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 
-## 🏆 GitHub Profile Highlights  
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEEP13-2-5&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEP13-2-5&layout=compact&theme=tokyonight)
+### **Database & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-800000.svg?logo=mongoose&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-F5AB00.svg?logo=cloudinary&logoColor=black)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DEEP13-2-5&theme=tokyonight&hide_border=true)
+### **Real-Time Systems**
+![WebRTC](https://img.shields.io/badge/WebRTC-80CDC6.svg?logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?logo=socketdotio&logoColor=white)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DEEP13-2-5&theme=onedark&no-frame=true&margin-w=10)
+### **Maps & Geo**
+![Mapbox](https://img.shields.io/badge/Mapbox-000000.svg?logo=mapbox&logoColor=white)
 
----
+### **DevOps / CI/CD**
+![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white)
 
-## 🔥 Featured Projects  
-
-### 🏡 Hotelbnb – Full-Stack SaaS Platform  
-Airbnb-style platform with listings, filters, reviews, secure workflows, Cloudinary uploads, and Mapbox geolocation.  
-**Tech:** Node.js, Express, MongoDB, EJS, Cloudinary, Mapbox  
-
-🔗 Repo: https://github.com/DEEP13-2-5/Hotelbnb  
-🌐 Demo: https://hotelbnb-nj6a.onrender.com/listings  
-
----
-
-### 🎥 ApnaVideo – Real-Time Video Conferencing  
-Zoom-like app using WebRTC + Socket.io for peer-to-peer calls, camera/mic controls, and multi-user rooms.  
-**Tech:** React, WebRTC, Socket.io, Node.js  
-
-🔗 Repo: https://github.com/DEEP13-2-5/ApnaVideo  
-
----
-
-### 🌍 TripWeaver – Travel Planner (TypeScript)  
-A clean, modular travel planning assistant built using TypeScript.  
-🔗 Repo: https://github.com/DEEP13-2-5/TripWeaver  
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?logo=visual-studio-code&logoColor=white)
 
 ---
 
-### ⚙️ DSA-JAVA – Interview Prep  
-Structured practice set for Java DSA with topic-wise solutions.  
-🔗 Repo: https://github.com/DEEP13-2-5/DSA-JAVA  
+## 🔥 What I’m Focused On
+- Building **production SaaS apps** (auth, payments, dashboards, analytics)  
+- Backend depth (Node.js internals, DB modeling, caching, real-time flows)  
+- Docker + CI/CD pipelines  
+- DSA in Java (FAANG-style patterns)  
+- High-quality projects for **Tier-1 + FinTech interviews**  
 
 ---
 
-## 📈 Current Focus  
-- DSA (LeetCode + CodeChef)  
-- Full-stack advanced patterns  
-- Docker + GitHub Actions CI/CD  
-- Building **Hotelbnb V2** (React + Node + Docker + SaaS features)  
+## 📌 Featured Work
+### **🏡 Hotelbnb — SaaS Booking Platform**
+Dynamic listings, filters, reviews, secure workflows, Cloudinary media handling, Mapbox geolocation.  
+**Stack:** Node.js, Express, MongoDB, Cloudinary, Mapbox  
+🔗 https://github.com/DEEP13-2-5/Hotelbnb  
+🌍 https://hotelbnb-nj6a.onrender.com/listings  
+
+### **🎥 ApnaVideo — WebRTC Video Calling**
+Real-time peer-to-peer communication with video/audio controls and multi-user rooms.  
+**Stack:** React, WebRTC, Socket.io, Node.js  
+🔗 https://github.com/DEEP13-2-5/ApnaVideo  
+
+### **🌍 TripWeaver — TypeScript Travel Planner**
+Cleanly architected, modular TS project for structured travel planning.  
+🔗 https://github.com/DEEP13-2-5/TripWeaver  
 
 ---
 
-## 📬 Connect With Me  
-🔗 LinkedIn: https://www.linkedin.com/in/deep-bodani-0444b7298/  
+## 📬 Connect
+🔗 **LinkedIn:** https://www.linkedin.com/in/deep-bodani-0444b7298/  
 📍 Surat, India  
