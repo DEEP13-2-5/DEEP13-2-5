@@ -1,54 +1,78 @@
-Full-Stack Developer | MERN | WebRTC | SaaS | Maps | DSA (Java) | ML Learner
+# Full-Stack Developer | MERN | WebRTC | SaaS | Maps | DSA (Java) | ML Learner  
 
-I build production-ready systems — from real-time video conferencing to SaaS platforms with maps, authentication, CI/CD, and cloud deployments. Currently preparing for SWE Internships 2026-27 and focusing on DSA + System Design + DevOps basics.
+![Profile Views](https://komarev.com/ghpvc/?username=DEEP13-2-5&style=flat&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/DEEP13-2-5?style=flat&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/DEEP13-2-5?affiliations=OWNER&style=flat&color=yellow)
 
-🚀 Tech Stack
+---
 
-Languages: Java, JavaScript, TypeScript, Python
-Frontend: React, Tailwind, Redux, HTML, CSS
-Backend: Node.js, Express.js
-Database: MongoDB, Mongoose
-Cloud / Tools: Cloudinary, Mapbox, Docker (learning), GitHub Actions
-Real-Time: WebRTC, Socket.io
-Other: REST APIs, Authentication, JWT / Sessions
+I build production-ready systems — from real-time video conferencing to SaaS platforms with maps, authentication, CI/CD, and cloud deployments.  
+Currently preparing for **SWE Internships 2026-27** and focusing on **DSA + System Design + DevOps basics**.
 
-🔥 Featured Projects
-🏡 Hotelbnb – Full-Stack SaaS Platform
+---
 
-Airbnb-style platform with listings, filters, reviews, secure workflows, Cloudinary uploads, and Mapbox geolocation.
-Tech: Node.js, Express, MongoDB, EJS, Cloudinary, Mapbox
-🔗 Repo: https://github.com/DEEP13-2-5/Hotelbnb
+## 🚀 Tech Stack  
 
-🌐 Demo: https://hotelbnb-nj6a.onrender.com/listings
+**Languages:** Java, JavaScript, TypeScript, Python  
+**Frontend:** React, Tailwind, Redux, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Mongoose  
+**Cloud / Tools:** Cloudinary, Mapbox, Docker (learning), GitHub Actions  
+**Real-Time:** WebRTC, Socket.io  
+**Other:** REST APIs, Authentication, JWT / Sessions  
 
-🎥 ApnaVideo – Real-Time Video Conferencing
+---
 
-Zoom-like app using WebRTC + Socket.io for peer-to-peer calls, camera/mic controls, and multi-user rooms.
-Tech: React, WebRTC, Socket.io, Node.js
-🔗 Repo: https://github.com/DEEP13-2-5/ApnaVideo
+## 🏆 GitHub Profile Highlights  
 
-🌍 TripWeaver – Travel Planner (TypeScript)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEEP13-2-5&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEP13-2-5&layout=compact&theme=tokyonight)
 
-A clean, modular travel planning assistant built using TypeScript.
-🔗 Repo: https://github.com/DEEP13-2-5/TripWeaver
+![GitHub Streak](https://streak-stats.demolab.com/?user=DEEP13-2-5&theme=tokyonight&hide_border=true)
 
-⚙️ DSA-JAVA – Interview Prep
+![Trophies](https://github-profile-trophy.vercel.app/?username=DEEP13-2-5&theme=onedark&no-frame=true&margin-w=10)
 
-Structured practice set for Java DSA with topic-wise solutions.
-🔗 Repo: https://github.com/DEEP13-2-5/DSA-JAVA
+---
 
-📈 Current Focus
+## 🔥 Featured Projects  
 
-DSA (LeetCode + CodeChef)
+### 🏡 Hotelbnb – Full-Stack SaaS Platform  
+Airbnb-style platform with listings, filters, reviews, secure workflows, Cloudinary uploads, and Mapbox geolocation.  
+**Tech:** Node.js, Express, MongoDB, EJS, Cloudinary, Mapbox  
 
-Full-stack advanced patterns
+🔗 Repo: https://github.com/DEEP13-2-5/Hotelbnb  
+🌐 Demo: https://hotelbnb-nj6a.onrender.com/listings  
 
-Docker + GitHub Actions CI/CD (starting this week)
+---
 
-Building Hotelbnb V2 (React + Node + Dockerized + SaaS features)
+### 🎥 ApnaVideo – Real-Time Video Conferencing  
+Zoom-like app using WebRTC + Socket.io for peer-to-peer calls, camera/mic controls, and multi-user rooms.  
+**Tech:** React, WebRTC, Socket.io, Node.js  
 
-📬 Connect With Me
+🔗 Repo: https://github.com/DEEP13-2-5/ApnaVideo  
 
-🔗 LinkedIn: https://www.linkedin.com/in/deep-bodani-0444b7298/
+---
 
-📍 Surat, India
+### 🌍 TripWeaver – Travel Planner (TypeScript)  
+A clean, modular travel planning assistant built using TypeScript.  
+🔗 Repo: https://github.com/DEEP13-2-5/TripWeaver  
+
+---
+
+### ⚙️ DSA-JAVA – Interview Prep  
+Structured practice set for Java DSA with topic-wise solutions.  
+🔗 Repo: https://github.com/DEEP13-2-5/DSA-JAVA  
+
+---
+
+## 📈 Current Focus  
+- DSA (LeetCode + CodeChef)  
+- Full-stack advanced patterns  
+- Docker + GitHub Actions CI/CD  
+- Building **Hotelbnb V2** (React + Node + Docker + SaaS features)  
+
+---
+
+## 📬 Connect With Me  
+🔗 LinkedIn: https://www.linkedin.com/in/deep-bodani-0444b7298/  
+📍 Surat, India  
