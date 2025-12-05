@@ -52,9 +52,3 @@ Building Hotelbnb V2 (React + Node + Dockerized + SaaS features)
 🔗 LinkedIn: https://www.linkedin.com/in/deep-bodani-0444b7298/
 
 📍 Surat, India
-
-🧱 GitHub Stats (Optional)
-
-(Add if you want stats — looks good but optional)
-
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEEP13-2-5&show_icons=true&theme=tokyonight)
