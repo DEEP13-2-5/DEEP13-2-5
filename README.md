@@ -1,82 +1,101 @@
-# Full-Stack Developer | MERN | Real-Time Systems | SaaS | Maps | DSA (Java)
+## Hi, I’m Deep 👋
 
-I build scalable, production-grade systems with a strong focus on clean engineering, real-time communication, security, and cloud-native design.  
-Actively preparing for **FAANG / Tier-1 intern roles**, sharpening **DSA (Java)**, **System Design**, and backend engineering depth.
+**Computer Engineering Undergraduate | Backend & Systems Learning**
 
----
+I am a Computer Engineering undergraduate who uses hands-on projects to understand how software systems work beneath the surface.
 
-## 🛠️ Tech Stack & Tools
+I focus on learning **core computer science fundamentals** such as data structures, backend request handling, networking concepts, database design, and real-time communication. My goal is to understand *why systems behave the way they do*, not just how to use frameworks.
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white)
-
-### **Database & Storage**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-800000.svg?logo=mongoose&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-F5AB00.svg?logo=cloudinary&logoColor=black)
-
-### **Real-Time Systems**
-![WebRTC](https://img.shields.io/badge/WebRTC-80CDC6.svg?logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?logo=socketdotio&logoColor=white)
-
-### **Maps & Geo**
-![Mapbox](https://img.shields.io/badge/Mapbox-000000.svg?logo=mapbox&logoColor=white)
-
-### **DevOps / CI/CD**
-![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?logo=visual-studio-code&logoColor=white)
+I enjoy structured problem solving and have practiced data structures and algorithms extensively, with a focus on **pattern recognition and algorithmic thinking**.
 
 ---
 
-## 🔥 What I’m Focused On
-- Building **production SaaS apps** (auth, payments, dashboards, analytics)  
-- Backend depth (Node.js internals, DB modeling, caching, real-time flows)  
-- Docker + CI/CD pipelines  
-- DSA in Java (FAANG-style patterns)  
-- High-quality projects for **Tier-1 + FinTech interviews**  
+## 🧠 Areas of Learning
+
+* Backend systems & API design
+* Real-time communication (WebRTC, sockets)
+* Database modeling & data flow
+* System behavior under concurrent usage
+* Data Structures & Algorithms (Java / Python)
 
 ---
 
-## 📌 Featured Work
-### **🏡 Hotelbnb — SaaS Booking Platform**
-Dynamic listings, filters, reviews, secure workflows, Cloudinary media handling, Mapbox geolocation.  
-**Stack:** Node.js, Express, MongoDB, Cloudinary, Mapbox  
-🔗 https://github.com/DEEP13-2-5/Hotelbnb  
-🌍 https://hotelbnb-nj6a.onrender.com/listings  
+## 🛠️ Technologies & Tools
 
-### **🎥 ApnaVideo — WebRTC Video Calling**
-Real-time peer-to-peer communication with video/audio controls and multi-user rooms.  
-**Stack:** React, WebRTC, Socket.io, Node.js  
-🔗 https://github.com/DEEP13-2-5/ApnaVideo  
+### Languages
 
-### **🌍 TripWeaver — TypeScript Travel Planner**
-Cleanly architected, modular TS project for structured travel planning.  
-🔗 https://github.com/DEEP13-2-5/TripWeaver  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+
+### Real-Time & Systems
+
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat\&logo=webrtc\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat\&logo=socket.io\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 
 ---
 
-## 📬 Connect
-🔗 **LinkedIn:** https://www.linkedin.com/in/deep-bodani-0444b7298/  
-📍 Surat, India  
+## 📌 Selected Learning Projects
+
+### 🔹 SynthMind AI
+
+A learning project exploring **system readiness, load behavior, and backend response under traffic**.
+*Built to understand testing workflows, system limits, and performance analysis.*
+
+🔗 [https://github.com/DEEP13-2-5/SynthMind-AI](https://github.com/DEEP13-2-5/SynthMind-AI)
+
+---
+
+### 🔹 ApnaVideo
+
+A real-time video communication project using **WebRTC and Socket.io**.
+*Built to learn peer-to-peer communication, signaling, and real-time data flow.*
+
+🔗 [https://github.com/DEEP13-2-5/ApnaVideo](https://github.com/DEEP13-2-5/ApnaVideo)
+
+---
+
+### 🔹 TripWeaver
+
+A modular TypeScript-based travel planning application.
+*Built to understand clean architecture, modular design, and data modeling.*
+
+🔗 [https://github.com/DEEP13-2-5/TripWeaver](https://github.com/DEEP13-2-5/TripWeaver)
+
+---
+
+### 🔹 DSA-JAVA
+
+A structured repository of **data structures and algorithm problems** solved in Java.
+*Focused on fundamentals, patterns, and algorithmic thinking.*
+
+🔗 [https://github.com/DEEP13-2-5/DSA-JAVA](https://github.com/DEEP13-2-5/DSA-JAVA)
+
+---
+
+## 📊 Problem Solving
+
+* Solved **400+ DSA problems**
+* Platforms: LeetCode, HackerRank, CodeChef
+* Focus on clarity, patterns, and correctness
+
+---
+
+## 🔗 Connect
+
+* LinkedIn: [https://www.linkedin.com/in/deep-bodani-0444b7298/](https://www.linkedin.com/in/deep-bodani-0444b7298/)
+* GitHub: [https://github.com/DEEP13-2-5](https://github.com/DEEP13-2-5)
