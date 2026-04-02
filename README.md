@@ -80,10 +80,10 @@ I enjoy structured problem solving and have practiced data structures and algori
 
 ## 📌 Featured Projects
 
-### 🔹 [SynthMind AI](https://github.com/DEEP13-2-5/SynthMind-AI)
+### 🔹 [Prefracta-AI](https://github.com/DEEP13-2-5/Prefracta-AI)
 A learning project exploring **system readiness, load behavior, and backend response under traffic**.  
 *Built to understand testing workflows, system limits, and performance analysis.*  
-🔗 [Live Demo](https://sync-mind-ai-qxpf.vercel.app)
+🔗 [Live Demo](https://github.com/DEEP13-2-5/Prefracta-AI)
 
 **Tech Stack:** TypeScript, React, Node.js, Cloud Testing
 
