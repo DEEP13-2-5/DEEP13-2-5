@@ -1,13 +1,15 @@
 <div align="center">
-  
-# 👋 Hi, I'm Deep Bodani
 
-### Full-Stack Developer | Backend & System Design | DevOps (Docker, CI/CD)  
-Building scalable SaaS & real-time systems | 400+ DSA (Java)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Deep%20Bodani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20Systems%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-bodani-0444b7298/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEEP13-2-5)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DEEP13-2-5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepbodani13@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DEEP13-2-5&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -15,22 +17,41 @@ Building scalable SaaS & real-time systems | 400+ DSA (Java)
 
 ## 🚀 About Me
 
-I am a Computer Engineering undergraduate who uses hands-on projects to understand how software systems work beneath the surface.
+> *"I don't just build features — I learn how systems think."*
 
-I focus on learning **core computer science fundamentals** such as data structures, backend request handling, networking concepts, database design, and real-time communication. My goal is to understand system behavior, not just build features.
+I'm a **Computer Engineering undergraduate** passionate about understanding how software systems work at a fundamental level. I build projects not to fill a portfolio, but to deeply understand the engineering behind them — from request lifecycles to real-time data flow, from database design to peer-to-peer networking.
 
-I enjoy structured problem solving and have practiced data structures and algorithms extensively, with a focus on **pattern recognition and algorithmic thinking**.
+I'm actively pursuing **Google Summer of Code (GSoC)** to contribute meaningful, production-quality work to open-source organizations, grow as a collaborator in a global developer community, and tackle challenges that have real-world impact.
+
+**What drives me:**
+- 🔍 Deep curiosity about *why* systems behave the way they do
+- 🛠️ Translating concepts into working, well-structured code
+- 🤝 Learning through real collaboration and open-source contribution
+- 📈 Constant improvement — in code quality, architecture, and problem-solving depth
 
 ---
 
-## 🧠 Areas of Learning
+## 🌍 Open Source & GSoC
 
-- 🔧 Backend systems & API design
-- 🌐 Real-time communication (WebRTC, sockets)
-- 🗄️ Database modeling & data flow
-- ⚡ System behavior under concurrent usage
-- 📊 Data Structures & Algorithms (Java / Python)
-- 🏗️ Full-Stack Development (MERN Stack)
+I am enthusiastic about contributing to open source because it is the best way to learn from world-class engineers, collaborate across boundaries, and build software that matters.
+
+- 🔭 Currently exploring GSoC organizations in **backend systems, developer tooling, and real-time infrastructure**
+- 🧩 Comfortable reading and reasoning about large, unfamiliar codebases
+- 📬 Open to mentorship, code reviews, and structured contribution workflows
+- 🧪 I write readable, testable code and document my thought process clearly
+
+---
+
+## 🧠 Core Technical Areas
+
+| Area | Details |
+|---|---|
+| 🔧 Backend & API Design | RESTful services, middleware, auth flows, rate limiting |
+| 🌐 Real-Time Systems | WebRTC, WebSockets, signaling servers, P2P |
+| 🗄️ Databases | MongoDB, MySQL — schema design, indexing, aggregation |
+| ⚡ Systems & Performance | Load testing, concurrency, system behavior under traffic |
+| 🏗️ Full-Stack | MERN stack, TypeScript-first development |
+| 📊 DSA | 400+ problems — patterns, optimization, algorithmic thinking |
 
 ---
 
@@ -66,83 +87,131 @@ I enjoy structured problem solving and have practiced data structures and algori
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DEEP13-2-5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEP13-2-5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=DEEP13-2-5&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEP13-2-5&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
 ## 📌 Featured Projects
 
-### 🔹 [Prefracta-AI](https://github.com/DEEP13-2-5/Prefracta-AI)
-Built to evaluate system performance under real-world load conditions **system readiness, load behavior, and backend response under traffic**.  
-*Built to understand testing workflows, system limits, and performance analysis.*  
-🔗 [Live Demo](https://github.com/DEEP13-2-5/Prefracta-AI)
+### 🔹 [Prefracta-AI](https://github.com/DEEP13-2-5/Prefracta-AI) — *Load Testing & System Readiness Platform*
 
-**Tech Stack:** TypeScript, React, Node.js, Cloud Testing
+A performance analysis tool that evaluates system behavior under **real-world traffic conditions** — simulating concurrent users, measuring backend response times, and identifying bottlenecks before they hit production.
 
----
+- Designed to answer: *"How does this system behave when it matters most?"*
+- Covers load simulation, latency profiling, and failure-point detection
+- Demonstrates understanding of **observability and production reliability**
 
-### 🔹 [Hotelbnb](https://github.com/DEEP13-2-5/Hotelbnb)
-Full-stack SaaS platform for creating and managing property listings with dynamic search, category filters, reviews, secure auth flows, Cloudinary media uploads, and Mapbox-powered geolocation.  
-🔗 [Live Demo](https://hotelbnb-nj6a.onrender.com/listings)
-
-**Tech Stack:** Node.js, Express, MongoDB, Mapbox, Cloudinary
+🔗 [View Project](https://github.com/DEEP13-2-5/Prefracta-AI) &nbsp;|&nbsp; **Stack:** TypeScript · React · Node.js · Cloud Testing
 
 ---
 
-### 🔹 [ApnaVideo](https://github.com/DEEP13-2-5/ApnaVideo)
-A real-time video communication project using **WebRTC and Socket.io**.  
-*Built to learn peer-to-peer communication, signaling, and real-time data flow.*  
-🔗 [Live Demo](https://apnavideo.onrender.com)
+### 🔹 [Hotelbnb](https://github.com/DEEP13-2-5/Hotelbnb) — *Full-Stack SaaS Property Platform*
 
-**Tech Stack:** JavaScript, WebRTC, Socket.io, Node.js
+A production-grade property listing and booking platform with dynamic search, category filtering, review systems, **secure JWT auth flows**, Cloudinary media management, and Mapbox geolocation.
 
----
+- End-to-end full-stack development with real deployment on Render
+- Demonstrates **multi-service integration** (auth, storage, maps, DB)
+- MVC architecture with clean separation of concerns
 
-### 🔹 [TripWeaver](https://github.com/DEEP13-2-5/TripWeaver)
-A modular TypeScript-based travel planning application.  
-*Built to understand clean architecture, modular design, and data modeling.*  
-🔗 [Live Demo](https://trip-weaver.vercel.app)
-
-**Tech Stack:** TypeScript, React, REST APIs
+🔗 [Live Demo](https://hotelbnb-nj6a.onrender.com/listings) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/Hotelbnb) &nbsp;|&nbsp; **Stack:** Node.js · Express · MongoDB · Mapbox · Cloudinary
 
 ---
 
-### 🔹 [DSA-JAVA](https://github.com/DEEP13-2-5/DSA-JAVA)
-A structured repository of **data structures and algorithm problems** solved in Java.  
-*Focused on fundamentals, patterns, and algorithmic thinking.*
+### 🔹 [ApnaVideo](https://github.com/DEEP13-2-5/ApnaVideo) — *P2P Video Communication*
 
-**Focus:** Arrays, LinkedLists, Trees, Graphs, Dynamic Programming, Sorting & Searching
+A real-time peer-to-peer video calling app built from scratch using **WebRTC and Socket.io signaling** — no third-party video SDKs.
+
+- Implements full ICE/STUN/TURN negotiation and offer/answer signaling flow
+- Built to deeply understand how **real-time communication** works at the protocol level
+- Live and deployed
+
+🔗 [Live Demo](https://apnavideo.onrender.com) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/ApnaVideo) &nbsp;|&nbsp; **Stack:** JavaScript · WebRTC · Socket.io · Node.js
+
+---
+
+### 🔹 [TripWeaver](https://github.com/DEEP13-2-5/TripWeaver) — *Modular Travel Planning App*
+
+A TypeScript-first travel planning application with a focus on **clean architecture, modular design, and type-safe data modeling**.
+
+- Demonstrates strong TypeScript practices and component-level thinking
+- REST API integration with structured state management
+- Deployed on Vercel
+
+🔗 [Live Demo](https://trip-weaver.vercel.app) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/TripWeaver) &nbsp;|&nbsp; **Stack:** TypeScript · React · REST APIs
+
+---
+
+### 🔹 [DSA-JAVA](https://github.com/DEEP13-2-5/DSA-JAVA) — *Structured Algorithms Repository*
+
+A well-organized repository of **400+ DSA problems** solved in Java, structured by topic and pattern — not just solutions, but documented reasoning.
+
+- Topics: Arrays, Linked Lists, Trees, Graphs, DP, Sorting & Searching
+- Focus on **pattern recognition over memorization**
+- Useful as a reference for algorithmic thinking in open-source contributions
+
+🔗 [GitHub](https://github.com/DEEP13-2-5/DSA-JAVA) &nbsp;|&nbsp; **Language:** Java
 
 ---
 
 ## 💻 Problem Solving
 
-- ✅ Solved **400+ DSA problems**
-- 🏆 Platforms: LeetCode, HackerRank, CodeChef
-- 🎯 Focus on clarity, patterns, and correctness
+<div align="center">
+
+| Platform | Count | Focus |
+|---|---|---|
+| LeetCode | 300+ | Patterns, Optimization |
+| HackerRank | ✅ | Problem-Solving Badges |
+| CodeChef | ✅ | Contest Practice |
+
+</div>
+
+> Total: **400+ problems** across platforms — with emphasis on clarity and understanding over competitive rank.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Building Towards GSoC
 
-- Advanced System Design
-- Microservices Architecture
-- Cloud Computing (AWS/Docker)
-- Advanced DSA & Competitive Programming
+- 📐 Advanced System Design & Distributed Systems
+- 🧩 Microservices Architecture & Service Mesh
+- ☁️ Cloud Infrastructure (AWS, Docker, CI/CD pipelines)
+- 🔬 Contributing to open-source projects — reading codebases, filing issues, submitting patches
+- 🏁 Advanced DSA & algorithms for technical interviews and GSoC proposal quality
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-bodani-0444b7298/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEEP13-2-5)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DEEP13-2-5)
+
+*Open to GSoC mentorship, open-source collaboration, and learning opportunities.*
 
 </div>
 
 ---
 
 <div align="center">
-  
-### ⭐ From [DEEP13-2-5](https://github.com/DEEP13-2-5)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DEEP13-2-5&color=blueviolet&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 
 </div>
