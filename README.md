@@ -2,7 +2,8 @@
   
 # 👋 Hi, I'm Deep Bodani
 
-### Computer Engineering Undergraduate | Full-Stack Developer | Backend & Systems Enthusiast
+### Full-Stack Developer | Backend & System Design | DevOps (Docker, CI/CD)  
+Building scalable SaaS & real-time systems | 400+ DSA (Java)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-bodani-0444b7298/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEEP13-2-5)
