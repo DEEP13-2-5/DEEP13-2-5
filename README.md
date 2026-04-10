@@ -26,11 +26,10 @@ I'm a **Computer Engineering undergraduate** passionate about understanding how 
 
 ---
 
-## 🌍 Open Source & GSoC
-
+## 🌍 Open Source
 I am enthusiastic about contributing to open source because it is the best way to learn from world-class engineers, collaborate across boundaries, and build software that matters.
 
-- 🔭 Currently exploring GSoC organizations in **backend systems, developer tooling, and real-time infrastructure**
+- 🔭 Currently exploring organizations in **backend systems, developer tooling, and real-time infrastructure**
 - 🧩 Comfortable reading and reasoning about large, unfamiliar codebases
 - 📬 Open to mentorship, code reviews, and structured contribution workflows
 - 🧪 I write readable, testable code and document my thought process clearly
