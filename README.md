@@ -10,12 +10,13 @@
 ---
 
 ## 🚀 About Me
+Bodani Deep Jaykishan  
+Full-Stack Developer | Backend & System Design | Real-Time Systems | DevOps  
+Building scalable systems, not just projects
 
 > *"I don't just build features — I learn how systems think."*
 
 I'm a **Computer Engineering undergraduate** passionate about understanding how software systems work at a fundamental level. I build projects not to fill a portfolio, but to deeply understand the engineering behind them — from request lifecycles to real-time data flow, from database design to peer-to-peer networking.
-
-I'm actively pursuing **Google Summer of Code (GSoC)** to contribute meaningful, production-quality work to open-source organizations, grow as a collaborator in a global developer community, and tackle challenges that have real-world impact.
 
 **What drives me:**
 - 🔍 Deep curiosity about *why* systems behave the way they do
