@@ -1,3 +1,9 @@
+<div align="center">
+
+# Bodani Deep Jaykishan
+
+### Building scalable backend systems and real-time infrastructure.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-bodani-0444b7298/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEEP13-2-5)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deepbodani/)
@@ -10,42 +16,26 @@
 ---
 
 ## 🚀 About Me
-Bodani Deep Jaykishan  
-Full-Stack Developer | Backend & System Design | Real-Time Systems | DevOps  
-Building scalable systems, not just projects
 
-> *"I don't just build features — I learn how systems think."*
+Computer Engineering undergraduate focused on **Backend Engineering** and **Systems Design**.  
+I build projects to understand how systems behave under real conditions — from request lifecycles and real-time data flow to database internals and P2P networking.
 
-I'm a **Computer Engineering undergraduate** passionate about understanding how software systems work at a fundamental level. I build projects not to fill a portfolio, but to deeply understand the engineering behind them — from request lifecycles to real-time data flow, from database design to peer-to-peer networking.
-
-**What drives me:**
-- 🔍 Deep curiosity about *why* systems behave the way they do
-- 🛠️ Translating concepts into working, well-structured code
-- 🤝 Learning through real collaboration and open-source contribution
-- 📈 Constant improvement — in code quality, architecture, and problem-solving depth
-
----
-
-## 🌍 Open Source
-I am enthusiastic about contributing to open source because it is the best way to learn from world-class engineers, collaborate across boundaries, and build software that matters.
-
-- 🔭 Currently exploring organizations in **backend systems, developer tooling, and real-time infrastructure**
-- 🧩 Comfortable reading and reasoning about large, unfamiliar codebases
-- 📬 Open to mentorship, code reviews, and structured contribution workflows
-- 🧪 I write readable, testable code and document my thought process clearly
+- 🔧 Primary: Backend systems, API design, real-time infrastructure
+- 🌐 Secondary: Full-stack (MERN), DevOps, distributed systems
+- 🤝 Open to GSoC mentorship, open-source contributions, and collaboration
 
 ---
 
 ## 🧠 Core Technical Areas
 
-| Area | Details |
-|---|---|
-| 🔧 Backend & API Design | RESTful services, middleware, auth flows, rate limiting |
-| 🌐 Real-Time Systems | WebRTC, WebSockets, signaling servers, P2P |
-| 🗄️ Databases | MongoDB, MySQL — schema design, indexing, aggregation |
-| ⚡ Systems & Performance | Load testing, concurrency, system behavior under traffic |
-| 🏗️ Full-Stack | MERN stack, TypeScript-first development |
-| 📊 DSA | 400+ problems — patterns, optimization, algorithmic thinking |
+| Priority | Area | Details |
+|---|---|---|
+| ⭐ Primary | 🔧 Backend & API Design | RESTful services, middleware, auth flows, rate limiting |
+| ⭐ Primary | ⚡ Systems & Performance | Load testing, concurrency, system behavior under traffic |
+| Secondary | 🌐 Real-Time Systems | WebRTC, WebSockets, signaling servers, P2P |
+| Secondary | 🗄️ Databases | MongoDB, MySQL — schema design, indexing, aggregation |
+| Secondary | 🏗️ Full-Stack | MERN stack, TypeScript-first development |
+| Secondary | 📊 DSA | 300+ LeetCode problems — patterns, optimization |
 
 ---
 
@@ -104,11 +94,10 @@ I am enthusiastic about contributing to open source because it is the best way t
 
 ### 🔹 [Prefracta-AI](https://github.com/DEEP13-2-5/Prefracta-AI) — *Load Testing & System Readiness Platform*
 
-A performance analysis tool that evaluates system behavior under **real-world traffic conditions** — simulating concurrent users, measuring backend response times, and identifying bottlenecks before they hit production.
+Simulates **500+ concurrent users**, measures backend latency under real traffic, and pinpoints bottlenecks before they hit production.
 
-- Designed to answer: *"How does this system behave when it matters most?"*
 - Covers load simulation, latency profiling, and failure-point detection
-- Demonstrates understanding of **observability and production reliability**
+- Built for **observability and production reliability** at scale
 
 🔗 [View Project](https://github.com/DEEP13-2-5/Prefracta-AI) &nbsp;|&nbsp; **Stack:** TypeScript · React · Node.js · Cloud Testing
 
@@ -116,11 +105,10 @@ A performance analysis tool that evaluates system behavior under **real-world tr
 
 ### 🔹 [Hotelbnb](https://github.com/DEEP13-2-5/Hotelbnb) — *Full-Stack SaaS Property Platform*
 
-A production-grade property listing and booking platform with dynamic search, category filtering, review systems, **secure JWT auth flows**, Cloudinary media management, and Mapbox geolocation.
+Production-grade booking platform with **30+ listing categories**, dynamic search, Cloudinary media management, Mapbox geolocation, and secure JWT auth — deployed on Render with real users.
 
-- End-to-end full-stack development with real deployment on Render
-- Demonstrates **multi-service integration** (auth, storage, maps, DB)
-- MVC architecture with clean separation of concerns
+- End-to-end full-stack: auth, storage, maps, DB integrated in one MVC codebase
+- Demonstrates **multi-service integration** at production scale
 
 🔗 [Live Demo](https://hotelbnb-nj6a.onrender.com/listings) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/Hotelbnb) &nbsp;|&nbsp; **Stack:** Node.js · Express · MongoDB · Mapbox · Cloudinary
 
@@ -128,10 +116,9 @@ A production-grade property listing and booking platform with dynamic search, ca
 
 ### 🔹 [ApnaVideo](https://github.com/DEEP13-2-5/ApnaVideo) — *P2P Video Communication*
 
-A real-time peer-to-peer video calling app built from scratch using **WebRTC and Socket.io signaling** — no third-party video SDKs.
+Real-time peer-to-peer video calling built from scratch using **WebRTC + Socket.io** — no third-party video SDKs. Sub-500ms connection setup via full ICE/STUN/TURN negotiation.
 
-- Implements full ICE/STUN/TURN negotiation and offer/answer signaling flow
-- Built to deeply understand how **real-time communication** works at the protocol level
+- Implements complete offer/answer signaling flow at the protocol level
 - Live and deployed
 
 🔗 [Live Demo](https://apnavideo.onrender.com) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/ApnaVideo) &nbsp;|&nbsp; **Stack:** JavaScript · WebRTC · Socket.io · Node.js
@@ -140,11 +127,7 @@ A real-time peer-to-peer video calling app built from scratch using **WebRTC and
 
 ### 🔹 [TripWeaver](https://github.com/DEEP13-2-5/TripWeaver) — *Modular Travel Planning App*
 
-A TypeScript-first travel planning application with a focus on **clean architecture, modular design, and type-safe data modeling**.
-
-- Demonstrates strong TypeScript practices and component-level thinking
-- REST API integration with structured state management
-- Deployed on Vercel
+TypeScript-first travel planning app with clean architecture, modular component design, and type-safe data modeling — deployed on Vercel.
 
 🔗 [Live Demo](https://trip-weaver.vercel.app) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/TripWeaver) &nbsp;|&nbsp; **Stack:** TypeScript · React · REST APIs
 
@@ -152,11 +135,7 @@ A TypeScript-first travel planning application with a focus on **clean architect
 
 ### 🔹 [DSA-JAVA](https://github.com/DEEP13-2-5/DSA-JAVA) — *Structured Algorithms Repository*
 
-A well-organized repository of **400+ DSA problems** solved in Java, structured by topic and pattern — not just solutions, but documented reasoning.
-
-- Topics: Arrays, Linked Lists, Trees, Graphs, DP, Sorting & Searching
-- Focus on **pattern recognition over memorization**
-- Useful as a reference for algorithmic thinking in open-source contributions
+**400+ DSA problems** in Java, organized by topic and pattern with documented reasoning — not just solutions.
 
 🔗 [GitHub](https://github.com/DEEP13-2-5/DSA-JAVA) &nbsp;|&nbsp; **Language:** Java
 
@@ -164,27 +143,15 @@ A well-organized repository of **400+ DSA problems** solved in Java, structured 
 
 ## 💻 Problem Solving
 
-<div align="center">
-
-| Platform | Count | Focus |
-|---|---|---|
-| LeetCode | 300+ | Patterns, Optimization |
-| HackerRank | ✅ | Problem-Solving Badges |
-| CodeChef | ✅ | Contest Practice |
-
-</div>
-
-> Total: **400+ problems** across platforms — with emphasis on clarity and understanding over competitive rank.
+**300+ LeetCode** · **400+ total** across LeetCode, HackerRank, and CodeChef — focused on patterns and optimization.
 
 ---
 
-## 🌱 Currently Learning & Building Towards GSoC
+## 🌱 Currently Learning
 
-- 📐 Advanced System Design & Distributed Systems
-- 🧩 Microservices Architecture & Service Mesh
-- ☁️ Cloud Infrastructure (AWS, Docker, CI/CD pipelines)
-- 🔬 Contributing to open-source projects — reading codebases, filing issues, submitting patches
-- 🏁 Advanced DSA & algorithms for technical interviews and GSoC proposal quality
+- 📐 System Design & Distributed Systems
+- ☁️ Cloud Infrastructure (AWS, Docker, CI/CD)
+- 🔬 Open-source contributions — reading codebases, filing issues, submitting patches
 
 ---
 
@@ -194,9 +161,8 @@ A well-organized repository of **400+ DSA problems** solved in Java, structured 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-bodani-0444b7298/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEEP13-2-5)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DEEP13-2-5)
-
-*Open to GSoC mentorship, open-source collaboration, and learning opportunities.*
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deepbodani/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshabodani461@gmail.com)
 
 </div>
 
