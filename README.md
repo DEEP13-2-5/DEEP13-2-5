@@ -84,21 +84,19 @@ I am enthusiastic about contributing to open source because it is the best way t
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEP13-2-5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEP13-2-5&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DEEP13-2-5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEP13-2-5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DEEP13-2-5&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=DEEP13-2-5&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEP13-2-5&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEP13-2-5&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
