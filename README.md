@@ -66,23 +66,10 @@ I enjoy structured problem solving and have practiced data structures and algori
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEEP13-2-5&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEP13-2-5&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 ### 🔹 [Prefracta-AI](https://github.com/DEEP13-2-5/Prefracta-AI)
-A learning project exploring **system readiness, load behavior, and backend response under traffic**.  
+Built to evaluate system performance under real-world load conditions **system readiness, load behavior, and backend response under traffic**.  
 *Built to understand testing workflows, system limits, and performance analysis.*  
 🔗 [Live Demo](https://github.com/DEEP13-2-5/Prefracta-AI)
 
