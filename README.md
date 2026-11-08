@@ -1,175 +1,115 @@
 <div align="center">
 
-# Bodani Deep Jaykishan
-
-### Building scalable backend systems and real-time infrastructure.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-bodani-0444b7298/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEEP13-2-5)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deepbodani/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshabodani461@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=DEEP13-2-5&color=6C63FF&style=for-the-badge&label=Profile+Views)
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · deep13-2-5</sub></p>
+<h1>Bodani Deep</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Computer Engineering Undergraduate | Backend &amp; Systems Learning | Web &amp; Real-Time Applications | DSA (Java/Python)</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Surat</sub></p>
+<p><a href="https://github.com/deep13-2-5">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/166627586?u=45963922b786418edc206e66c6eeb6b80a7e6a91&amp;v=4" width="180" alt="Bodani Deep GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 🚀 About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>25 repositories · 31 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>355 contributions · 42 active days</p></td>
+</tr>
+</table>
 
-Computer Engineering undergraduate focused on **Backend Engineering** and **Systems Design**.  
-I build projects to understand how systems behave under real conditions — from request lifecycles and real-time data flow to database internals and P2P networking.
+<p><sub>Computer Engineering Undergraduate | Backend &amp; Systems Learning | Web &amp; Real-Time Applications | DSA (Java/Python)</sub></p>
 
-- 🔧 Primary: Backend systems, API design, real-time infrastructure
-- 🌐 Secondary: Full-stack (MERN), DevOps, distributed systems
-- 🤝 Open to GSoC mentorship, open-source contributions, and collaboration
+<h2>Proof at a glance</h2>
 
----
-
-## 🧠 Core Technical Areas
-
-| Priority | Area | Details |
-|---|---|---|
-| ⭐ Primary | 🔧 Backend & API Design | RESTful services, middleware, auth flows, rate limiting |
-| ⭐ Primary | ⚡ Systems & Performance | Load testing, concurrency, system behavior under traffic |
-| Secondary | 🌐 Real-Time Systems | WebRTC, WebSockets, signaling servers, P2P |
-| Secondary | 🗄️ Databases | MongoDB, MySQL — schema design, indexing, aggregation |
-| Secondary | 🏗️ Full-Stack | MERN stack, TypeScript-first development |
-| Secondary | 📊 DSA | 300+ LeetCode problems — patterns, optimization |
-
----
-
-## 🛠️ Technologies & Tools
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Real-Time & Systems
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>25</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>31</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>355</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>77</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEP13-2-5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEP13-2-5&layout=compact&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=deep13-2-5&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F166627586%3Fu%3D45963922b786418edc206e66c6eeb6b80a7e6a91%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=deep13-2-5&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F166627586%3Fu%3D45963922b786418edc206e66c6eeb6b80a7e6a91%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Bodani Deep GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=deep13-2-5&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F166627586%3Fu%3D45963922b786418edc206e66c6eeb6b80a7e6a91%26v%3D4&repos=deep13-2-5%2FPrefracta-AI%2Cdeep13-2-5%2FEditron%2Cdeep13-2-5%2FApnaVideo%2Cdeep13-2-5%2FFinSight-AI&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=deep13-2-5&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F166627586%3Fu%3D45963922b786418edc206e66c6eeb6b80a7e6a91%26v%3D4&repos=deep13-2-5%2FPrefracta-AI%2Cdeep13-2-5%2FEditron%2Cdeep13-2-5%2FApnaVideo%2Cdeep13-2-5%2FFinSight-AI&v=recruiter-projects-1&mode=dark" width="100%" alt="Bodani Deep selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/DEEP13-2-5/Prefracta-AI">Prefracta-AI</a></h3>
+<p>Prefracta AI evaluates if a system is ready for production by running load tests and browser audits in a temporary cloud environment. It analyzes late</p>
+<p><sub>TypeScript · ⭐ 8 · 🍴 0</sub></p>
+<p><a href="https://github.com/DEEP13-2-5/Prefracta-AI">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/piyushdotcomm/Editron">Editron</a></h3><p>Editron - A browser-based development environment powered by WebContainers, Monaco Editor, and integrated AI. Build,run, and collaborate on full-stack</p><p><sub>TypeScript · ⭐ 67</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/DEEP13-2-5/ApnaVideo">ApnaVideo</a></h3><p>A video call allows real-time face-to-face communication over the internet using audio and video. It uses technologies like WebRTC for peer-to-peer co</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AakashRathore136/FinSight-AI">FinSight-AI</a></h3><p>FinSight AI is a full-stack financial intelligence platform that leverages Google Gemini AI to analyze financial data, assess portfolio risks, and gen</p><p><sub>TypeScript · ⭐ 13</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DEEP13-2-5&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=deep13-2-5&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F166627586%3Fu%3D45963922b786418edc206e66c6eeb6b80a7e6a91%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=deep13-2-5&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F166627586%3Fu%3D45963922b786418edc206e66c6eeb6b80a7e6a91%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Bodani Deep technology stack" />
+</picture>
 </p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>39% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>34% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>EJS</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEP13-2-5&theme=tokyo-night&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=deep13-2-5&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F166627586%3Fu%3D45963922b786418edc206e66c6eeb6b80a7e6a91%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=deep13-2-5&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F166627586%3Fu%3D45963922b786418edc206e66c6eeb6b80a7e6a91%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Bodani Deep contribution activity" />
+</picture>
 </p>
 
----
+<hr />
 
-## 📌 Featured Projects
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/deep13-2-5">GitHub</a></td>
+</tr>
+</table>
 
-### 🔹 [Prefracta-AI](https://github.com/DEEP13-2-5/Prefracta-AI) — *Load Testing & System Readiness Platform*
-
-Simulates **500+ concurrent users**, measures backend latency under real traffic, and pinpoints bottlenecks before they hit production.
-
-- Covers load simulation, latency profiling, and failure-point detection
-- Built for **observability and production reliability** at scale
-
-🔗 [View Project](https://github.com/DEEP13-2-5/Prefracta-AI) &nbsp;|&nbsp; **Stack:** TypeScript · React · Node.js · Cloud Testing
-
----
-
-### 🔹 [Hotelbnb](https://github.com/DEEP13-2-5/Hotelbnb) — *Full-Stack SaaS Property Platform*
-
-Production-grade booking platform with **30+ listing categories**, dynamic search, Cloudinary media management, Mapbox geolocation, and secure JWT auth — deployed on Render with real users.
-
-- End-to-end full-stack: auth, storage, maps, DB integrated in one MVC codebase
-- Demonstrates **multi-service integration** at production scale
-
-🔗 [Live Demo](https://hotelbnb-nj6a.onrender.com/listings) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/Hotelbnb) &nbsp;|&nbsp; **Stack:** Node.js · Express · MongoDB · Mapbox · Cloudinary
-
----
-
-### 🔹 [ApnaVideo](https://github.com/DEEP13-2-5/ApnaVideo) — *P2P Video Communication*
-
-Real-time peer-to-peer video calling built from scratch using **WebRTC + Socket.io** — no third-party video SDKs. Sub-500ms connection setup via full ICE/STUN/TURN negotiation.
-
-- Implements complete offer/answer signaling flow at the protocol level
-- Live and deployed
-
-🔗 [Live Demo](https://apnavideo.onrender.com) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/ApnaVideo) &nbsp;|&nbsp; **Stack:** JavaScript · WebRTC · Socket.io · Node.js
-
----
-
-### 🔹 [TripWeaver](https://github.com/DEEP13-2-5/TripWeaver) — *Modular Travel Planning App*
-
-TypeScript-first travel planning app with clean architecture, modular component design, and type-safe data modeling — deployed on Vercel.
-
-🔗 [Live Demo](https://trip-weaver.vercel.app) &nbsp;|&nbsp; [GitHub](https://github.com/DEEP13-2-5/TripWeaver) &nbsp;|&nbsp; **Stack:** TypeScript · React · REST APIs
-
----
-
-### 🔹 [DSA-JAVA](https://github.com/DEEP13-2-5/DSA-JAVA) — *Structured Algorithms Repository*
-
-**400+ DSA problems** in Java, organized by topic and pattern with documented reasoning — not just solutions.
-
-🔗 [GitHub](https://github.com/DEEP13-2-5/DSA-JAVA) &nbsp;|&nbsp; **Language:** Java
-
----
-
-## 💻 Problem Solving
-
-**300+ LeetCode** · **400+ total** across LeetCode, HackerRank, and CodeChef — focused on patterns and optimization.
-
----
-
-## 🌱 Currently Learning
-
-- 📐 System Design & Distributed Systems
-- ☁️ Cloud Infrastructure (AWS, Docker, CI/CD)
-- 🔬 Open-source contributions — reading codebases, filing issues, submitting patches
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-bodani-0444b7298/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEEP13-2-5)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deepbodani/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshabodani461@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center"><sub>Bodani Deep · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
